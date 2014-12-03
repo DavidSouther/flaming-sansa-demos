@@ -1,0 +1,10 @@
+{
+  "indentation": {
+    "name": "indentation",
+    "value": 4,
+    "level": "error"
+  },
+  "no_backticks": {
+    "level": "warn"
+  }
+}

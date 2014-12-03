@@ -1,0 +1,23 @@
+{
+  "name": "graphing-demos",
+  "version": "0.0.0",
+  "description": "Angular SVG Primitives and Graphs - demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/grunt",
+    "start": "node app.js"
+  },
+  "author": "David Souther <davidsouther@gmail.com>",
+  "repository": "git://github.com/DavidSouther/flaming-sansa.git",
+  "license": "ISC",
+  "dependencies": {
+    "graphing": "0.0.0",
+    "rupert-config-ionic": "^0.0.4"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "rupert": "^0.2.5",
+    "rupert-grunt": "^0.0.14"
+  }
+}

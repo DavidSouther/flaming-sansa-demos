@@ -1,0 +1,19 @@
+{
+    "name": "graphing",
+    "stassets": {
+        "verbose": true,
+        "root": "./src/client",
+        "vendors": {
+            "prefix": [ "./node_modules" ],
+            "css": [
+                "graphing/www/all.css",
+                "graphing/www/vendors.css"
+            ],
+            "js": [
+                "graphing/www/vendors.js",
+                "graphing/www/templates.js",
+                "graphing/www/application.js"
+            ]
+        }
+    }
+}
